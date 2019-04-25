@@ -2,11 +2,6 @@
     background-color:  rgb(175,219,229);
     color: white;
 }
-
-.navinline {
-    position: inline;
-    text-align: right;
-}
 body {
     background-image: url(assets/background_morocco/morocco.png);
 }
