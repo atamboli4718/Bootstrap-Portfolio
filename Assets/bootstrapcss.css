@@ -3,5 +3,5 @@
     color: white;
 }
 body {
-    background-image: url('background_morocco/morocco.png');
+    background-image: url(./background_morocco/morocco.png);
 }
