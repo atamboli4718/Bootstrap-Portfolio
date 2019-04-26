@@ -1,0 +1,7 @@
+.cardbackground {
+    background-color:  rgb(175,219,229);
+    color: white;
+}
+body {
+    background-image: url(./background_morocco/morocco.png);
+}
