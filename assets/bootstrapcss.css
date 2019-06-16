@@ -11,3 +11,7 @@ body {
 .rounded {
     border-radius: 30px
 }    
+a {
+    text-decoration: none; 
+    color: #212529; 
+}
