@@ -2,16 +2,25 @@
     background-color:rgb(22,162,183);
     color: white;
 }
+
 body {
-    background-image: url(./background_morocco/morocco.png);
-    height: 1700px;
+    background-image: url(./background_morocco/background2.jpg);
     font-family: 'PT Sans', sans-serif;
+}
+
+.index {
+    height: 1700px;
 }
 
 .rounded {
     border-radius: 30px
-}    
+}  
+
 a {
     text-decoration: none; 
     color: #212529; 
+}
+
+.graybackground {
+    background-color: rgb(65, 66, 66);
 }
