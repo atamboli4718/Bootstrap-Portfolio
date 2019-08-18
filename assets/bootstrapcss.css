@@ -1,11 +1,18 @@
 .cardbackground {
-    background-color:rgb(22,162,183);
+    /* background-color:rgb(22,162,183); */
     color: white;
 }
 
 body {
     background-image: url(./background_morocco/background3.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
     font-family: 'PT Sans', sans-serif;
+}
+
+h1, h4 {
+    font-family: 'Dancing Script', cursive;
 }
 
 .index {
